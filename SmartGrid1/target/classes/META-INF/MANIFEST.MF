@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1479788077307
+Build-Jdk: 1.8.0_101
+Built-By: sanjaya
+Bundle-ManifestVersion: 2
+Bundle-Name: org.wso2.siddhi.extension.feature
+Bundle-SymbolicName: org.wso2.extension.siddhi.window.uniquelengthbatch
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+DynamicImport-Package: *
+Export-Package: org.wso2.siddhi.extension.feature;uses:="org.wso2.siddhi
+ .core.config,org.wso2.siddhi.core.executor,org.wso2.siddhi.core.query.s
+ elector.attribute.aggregator,org.wso2.siddhi.query.api.definition";vers
+ ion="1.0.0"
+Import-Package: org.apache.log4j;resolution:=optional;version="[1.2,2)",
+ org.wso2.siddhi.core.config;resolution:=optional;version="[3.1,4)",org.
+ wso2.siddhi.core.exception;resolution:=optional;version="[3.1,4)",org.w
+ so2.siddhi.core.executor;resolution:=optional;version="[3.1,4)",org.wso
+ 2.siddhi.core.query.selector.attribute.aggregator;resolution:=optional;
+ version="[3.1,4)",org.wso2.siddhi.query.api.definition;resolution:=opti
+ onal;version="[3.1,4)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.6))"
+Tool: Bnd-3.2.0.201605172007

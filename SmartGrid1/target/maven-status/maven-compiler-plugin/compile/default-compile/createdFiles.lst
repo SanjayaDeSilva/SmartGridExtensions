@@ -1,0 +1,9 @@
+org/wso2/siddhi/extension/feature/MedianAggregator$MedianAggregatorDouble.class
+org/wso2/siddhi/extension/feature/AverageAggregator.class
+org/wso2/siddhi/extension/feature/stdDevAggregator.class
+org/wso2/siddhi/extension/feature/MedianAggregator$1.class
+org/wso2/siddhi/extension/feature/MedianAggregator.class
+org/wso2/siddhi/extension/feature/AverageAggregator$AverageAggregatorDouble.class
+org/wso2/siddhi/extension/feature/stdDevAggregator$1.class
+org/wso2/siddhi/extension/feature/stdDevAggregator$stdDevAggregatorDouble.class
+org/wso2/siddhi/extension/feature/AverageAggregator$1.class
